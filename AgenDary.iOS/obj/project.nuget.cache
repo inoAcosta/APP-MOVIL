@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "n+UNScPqGxwrbqjpGMuU9MGw37PGBBqYY82AfxKGZARc+PgW17S5n+ODW7cqG3yE9dSkg3VbB1NjZQ0zJX8nbw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mobo3\\Desktop\\PROYECTOS VISUAL ESTUDIO\\AgenDary\\AgenDary.iOS\\AgenDary.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mobo3\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\mobo3\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\mobo3\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
