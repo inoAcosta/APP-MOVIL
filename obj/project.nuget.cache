@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "PktKOmSqzqwV2WRbHleOsx2Hk4AFeH4CO1/qVCkOmyF3Vg4CNwBHUxTKx4qcedt63nbtMxtLbI2xbnzsQXhU+w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mobo3\\Desktop\\PROYECTOS VISUAL ESTUDIO\\AgenDary\\AgenDary\\AgenDary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mobo3\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\mobo3\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\mobo3\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\mobo3\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\mobo3\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

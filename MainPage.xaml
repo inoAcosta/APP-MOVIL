@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AgenDary.MainPage">
+
+    <StackLayout>
+        <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
+            <Label Text="AGENDARY" HorizontalTextAlignment="Center" TextColor="Black" FontSize="36" FontFamily="Bold"/>
+        </Frame>
+        <Label> </Label>
+        
+        <StackLayout VerticalOptions="Center" HorizontalOptions="Center">
+            
+            <Image Source="logo.jpg" />
+            <Label FontSize="16" Padding="30,24,30,0" Text="BIENVENIDOS QUE TENGA UN EXCELENTE DÌA CON TU APP AGENDARY " />
+           
+        </StackLayout>
+
+        <StackLayout Orientation="Horizontal" HorizontalOptions="Center" Padding="70,350,50,50">
+            
+            <Button Text="CONTINUAR" BackgroundColor="Blue" TextColor="Yellow" VerticalOptions="CenterAndExpand"></Button>
+            <Button Text="OPCIONES" BackgroundColor="Blue" TextColor="Yellow" VerticalOptions="CenterAndExpand"> </Button>
+            
+           
+
+        </StackLayout>
+
+
+    </StackLayout>
+    
+    
+
+    </ContentPage>

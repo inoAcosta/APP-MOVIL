@@ -1,0 +1,15 @@
+C:\Users\mobo3\Desktop\PROYECTOS VISUAL ESTUDIO\AgenDary\AgenDary\bin\Debug\netstandard2.0\AgenDary.deps.json
+C:\Users\mobo3\Desktop\PROYECTOS VISUAL ESTUDIO\AgenDary\AgenDary\bin\Debug\netstandard2.0\AgenDary.dll
+C:\Users\mobo3\Desktop\PROYECTOS VISUAL ESTUDIO\AgenDary\AgenDary\bin\Debug\netstandard2.0\AgenDary.pdb
+C:\Users\mobo3\Desktop\PROYECTOS VISUAL ESTUDIO\AgenDary\AgenDary\obj\Debug\netstandard2.0\AgenDary.csproj.AssemblyReference.cache
+C:\Users\mobo3\Desktop\PROYECTOS VISUAL ESTUDIO\AgenDary\AgenDary\obj\Debug\netstandard2.0\AgenDary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mobo3\Desktop\PROYECTOS VISUAL ESTUDIO\AgenDary\AgenDary\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\mobo3\Desktop\PROYECTOS VISUAL ESTUDIO\AgenDary\AgenDary\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\mobo3\Desktop\PROYECTOS VISUAL ESTUDIO\AgenDary\AgenDary\obj\Debug\netstandard2.0\AgenDary.AssemblyInfoInputs.cache
+C:\Users\mobo3\Desktop\PROYECTOS VISUAL ESTUDIO\AgenDary\AgenDary\obj\Debug\netstandard2.0\AgenDary.AssemblyInfo.cs
+C:\Users\mobo3\Desktop\PROYECTOS VISUAL ESTUDIO\AgenDary\AgenDary\obj\Debug\netstandard2.0\AgenDary.csproj.CoreCompileInputs.cache
+C:\Users\mobo3\Desktop\PROYECTOS VISUAL ESTUDIO\AgenDary\AgenDary\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\mobo3\Desktop\PROYECTOS VISUAL ESTUDIO\AgenDary\AgenDary\obj\Debug\netstandard2.0\AgenDary.dll
+C:\Users\mobo3\Desktop\PROYECTOS VISUAL ESTUDIO\AgenDary\AgenDary\obj\Debug\netstandard2.0\refint\AgenDary.dll
+C:\Users\mobo3\Desktop\PROYECTOS VISUAL ESTUDIO\AgenDary\AgenDary\obj\Debug\netstandard2.0\AgenDary.pdb
+C:\Users\mobo3\Desktop\PROYECTOS VISUAL ESTUDIO\AgenDary\AgenDary\obj\Debug\netstandard2.0\ref\AgenDary.dll
